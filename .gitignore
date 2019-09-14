@@ -1,0 +1,6 @@
+*#
+*.pyc
+*.pyr
+*.pyo
+*.tmp
+.LAB/
